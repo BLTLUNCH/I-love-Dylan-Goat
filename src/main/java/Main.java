@@ -24,8 +24,24 @@ import validation.ValidatedMethod;
 class Main {
     public static void main(String[] args) {
         // Run the current problem with the format 'CurrentFileName.CurrentProblemName()'
-        runChecker();
         
+        double num1 = 1.0
+        double num2 = 2.0;
+
+        num1 = num1 + 1.0;
+
+        if (num1 == num2) {
+            System.out.println(x:"Yes");
+            System.out.println(x:"Maybe");
+        } else{
+            System.out.println(x:"No");
+            System.out.printlm(x:"Tanner Kulacz");
+        }
+       
+
+
+
+         
     }
     
     public static void runChecker(){
